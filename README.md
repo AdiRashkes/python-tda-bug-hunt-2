@@ -1,14 +1,14 @@
 # python-tda-bug-hunt-2
 
 # DEPENDENCY
-#agileutil==10.7
+#lyrebird==0.10.5
 
 
 # VULNERABLE DEPENDENCY IN THE PACKAGE TREE
-#ansible==1.9.1
+#mitmproxy==4.0.3
 
 # FIXED VERSION
-#agileutil== 
+#lyrebird==0.13.3
 
 # VULNERABILITIES
-1. CVE-2019-10206
+1. CVE-2018-14505
