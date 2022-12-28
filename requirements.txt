@@ -1,3 +1,1 @@
-agileutil==10.7
-mitogen==0.2.6
 lyrebird==0.10.5
