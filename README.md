@@ -1,4 +1,6 @@
-# python-tda-bug-hunt-2
+# PROJECT NAME: python-tda-bug-hunt-2
+
+# FEATURE: TDA - Transitive-Dependency-Awareness for Python
 
 # DEPENDENCY
 1. lyrebird==0.10.5
