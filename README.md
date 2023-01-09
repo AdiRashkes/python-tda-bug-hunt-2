@@ -1,7 +1,7 @@
 # PROJECT NAME: python-tda-bug-hunt-2
 
 # FEATURE: SmartFix for Python
-The feature provides the minimum fix of a direct dependency that contains the minimum number of vulnerabilities 
+The feature provides the minimum fix version of a given vulnerable direct that will solve the biggest amount of vulnerabilities 
 
 # DEPENDENCY
 1. lyrebird==0.10.5
