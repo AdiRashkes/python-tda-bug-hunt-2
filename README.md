@@ -1,6 +1,6 @@
 # PROJECT NAME: python-tda-bug-hunt-2
 
-# FEATURE: TDA - Transitive-Dependency-Awareness for Python
+# FEATURE: SmartFix for Python
 
 # DEPENDENCY
 1. lyrebird==0.10.5
@@ -17,4 +17,4 @@
 
 
 # FIXED VERSION
-1. lyrebird==0.18.0
+1. lyrebird==1.18.0
