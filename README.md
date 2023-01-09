@@ -1,12 +1,12 @@
 # python-tda-bug-hunt-2
 
 # DEPENDENCY
-#lyrebird==0.10.5
+1. lyrebird==0.10.5
 
 
 # VULNERABLE TRANSITIVE DEPENDENCIES
-#mitmproxy==4.0.3
-#cryptography==2.2.2
+1. mitmproxy==4.0.3
+2. cryptography==2.2.2
 
 
 # VULNERABILITIES
@@ -15,4 +15,4 @@
 
 
 # FIXED VERSION
-#lyrebird==0.18.0
+1. lyrebird==0.18.0
