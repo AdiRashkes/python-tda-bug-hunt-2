@@ -1,5 +1,5 @@
 # FEATURE: SmartFix for Python
-The feature provides the minimum fix version of a given vulnerable direct that will solve the biggest amount of vulnerabilities on top of a Pull-Request
+The feature provides the minimum fix version of a given vulnerable direct that solves the biggest amount of vulnerabilities on top of a Pull-Request
 
 # PROJECT NAME: python-tda-bug-hunt-2
 
